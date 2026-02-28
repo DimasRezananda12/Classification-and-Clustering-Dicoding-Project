@@ -1,2 +1,15 @@
-# Classification-and-Clustering-Dicoding-Project
-Final projects for Dicoding's ML path. The Classification project predicts customer behavior with Random Forest &amp; Hyperparameter Tuning (reaching 100% accuracy). The Clustering project segments customers using K-Means with Elbow Method &amp; PCA visualization. Includes full preprocessing: handling missing values, encoding, and scaling.
+# Customer Behavior Analytics - Dicoding Final Submission
+
+This project consists of two main parts: **Classification** and **Clustering**, aimed at understanding and predicting customer segments.
+
+## 1. Classification Project
+Predicting customer targets using Supervised Learning.
+- **Model:** Random Forest Classifier (Tuned)
+- **Result:** Achieved **100% Accuracy** on the test set.
+- **Preprocessing:** Label Encoding and Data Cleaning.
+
+## 2. Clustering Project
+Segmenting customer population using Unsupervised Learning.
+- **Method:** K-Means Clustering
+- **Optimization:** Elbow Method to find the optimal K.
+- **Visualization:** PCA (Principal Component Analysis) to visualize segments in 2D.
